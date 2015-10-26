@@ -1,4 +1,4 @@
-1.	Program Hello;
+Program Hello;
 Uses Crt; 
 Begin
 <="" span="" 13.3333px;"="">ClrScr;
